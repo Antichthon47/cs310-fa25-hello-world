@@ -16,5 +16,6 @@ public class HelloWorld {
     }
     private void f2() {
     }
-
+    private void f3() {
+    }
 }

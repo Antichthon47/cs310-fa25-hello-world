@@ -10,5 +10,7 @@ public class Class1 {
     }
     private void f2() {
     }
+    private void f3() {
+    }
     
 }
